@@ -29,6 +29,7 @@ void foo()
 
 }
 
+// Optioanl, only for AFTI students
 template<unsigned N>
 void sumSeries()
 {
