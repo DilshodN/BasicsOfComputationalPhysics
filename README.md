@@ -5,6 +5,10 @@ Finally, some great subject...
 ```
 pip install ipywidgets numpy matplotlib
 or
+pip3 install ipywidgets numpy matplotlib
+```
+If you have ```conda```:
+```
 conda install ipywidgets numpy matplotlib
 ```
 ## Some examples from tasks
